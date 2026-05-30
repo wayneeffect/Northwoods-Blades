@@ -2,7 +2,7 @@
 
 A clean, modern, single-page static website for a premium knife and outdoor gear store based in Michigan's Upper Peninsula.
 
-**Live Demo** (after deployment): [Your Render URL]
+**Live Demo** (after deployment): https://northwoods-blades.onrender.com
 
 ---
 
